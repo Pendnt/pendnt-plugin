@@ -1,0 +1,15 @@
+{
+  "name": "pendnt",
+  "owner": {
+    "name": "pendnt",
+    "email": "arkade523@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "pendnt",
+      "source": "./",
+      "version": "0.1.0",
+      "description": "Durable human approvals, notifications, inbound webhooks, scheduled wake-ups, and a KV scratchpad for headless Claude Code agents."
+    }
+  ]
+}
