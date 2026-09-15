@@ -1,0 +1,10 @@
+{
+  "name": "pendnt",
+  "description": "Durable human approvals, notifications, inbound webhooks, scheduled wake-ups, and a KV scratchpad for headless Claude Code agents — via the pendnt hosted MCP server + REST API.",
+  "version": "0.1.0",
+  "author": {
+    "name": "pendnt",
+    "email": "arkade523@gmail.com",
+    "url": "https://pendnt.dev"
+  }
+}
